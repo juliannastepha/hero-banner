@@ -22,7 +22,6 @@ body {
   position: absolute;
   max-width: 50em;
   width: 100%;
-  top: 1px;
   bottom: 1rem;
   left: 50%;
   transform: translateX(-50%);
